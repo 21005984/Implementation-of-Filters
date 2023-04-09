@@ -139,20 +139,30 @@ cv2.destroyAllWindows()
 </br>
 
 i) Using Averaging Filter
+
 ![output](mine.png)
 ![output](w1.png)
+
 ii) Using Weighted Averaging Filter
+
 ![output](w2.png)
+
 iii) Using Gaussian Filter
+
 ![output](w3.png)
+
 iv) Using Median Filter
+
 ![output](w4.png)
+
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
+
 ![output](w5.png)
 
 ii) Using Laplacian Operator
+
 ![output](w6.png)
 
 ## Result:
